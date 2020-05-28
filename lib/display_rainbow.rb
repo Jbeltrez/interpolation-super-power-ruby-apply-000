@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 colors = ["red","orange","yellow","green","blue","indigo","violet"]
 
 def display_rainbow(colors)
@@ -6,3 +7,6 @@ end
 
 
 
+=======
+def display_rainbow
+>>>>>>> cf0b3cd85c011230fd45b72bbd62bfeb43dc7a1d
